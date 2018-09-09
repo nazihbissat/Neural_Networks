@@ -1,0 +1,8 @@
+Name: Nazih Bissat
+PennKey: nbissat
+PennID: 19557229
+Parts completed: All
+
+To run my code, check the bottom of the file for calls to classifiers like FFNN(), CNN(), etc. Every classifier is
+commented with details on what the architecture and hyperparameters are. To run, uncomment the classifier with the
+desired architecture.
